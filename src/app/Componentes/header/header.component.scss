@@ -1,0 +1,19 @@
+header{
+    padding: 20px 10px 20px;
+
+    h1{
+        text-align: center;
+        color: yellow;
+        font-size: 30px;
+        padding: 10px;
+        margin: 0;
+    }
+    padding: 10px;
+    h1:hover{
+        cursor: pointer;
+        color: blueviolet;
+        transition: all 0.5s;
+        transform: scale(1.1);
+        text-decoration: underline;
+    }
+}

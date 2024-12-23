@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import Api from '../../../APIREST/llamadas-Api';
 @Component({
   selector: 'app-pokemons',
   imports: [],
